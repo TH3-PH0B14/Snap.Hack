@@ -11,17 +11,18 @@
 Snapchat phishing website in php
 
 ## Terminal Screen
-<img src="Terminal.png" alt="Terminal Screen" width="400">
+<img src="Terminal.png" alt="Terminal Screen" width="500">
 
 ## username page
-<img src="login.png" alt="Username Page" width="400">
+<img src="login.png" alt="Username Page" width="500">
 
 ## password page
-<img src="password.png" alt="Password Page" width="400">
+<img src="password.png" alt="Password Page" width="500">
 
 ## log login page
-<img src="snap.png" alt="Log Login Page" width="400">
+<img src="snap.png" alt="Log Login Page" width="500">
 
 ## log panel page
-<img src="log.png" alt="Log Panel Page" width="400">
+<img src="log.png" alt="Log Panel Page" width="500">
 
+## Made by Not3 & PH0B14
