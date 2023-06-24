@@ -1,0 +1,134 @@
+@font-face {
+    font-family: Avenir Next;
+    src: url(/ect/AvenirNext-DemiBold.woff2);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Avenir Next",-apple-system,BlinkMacSystemFont,Roboto,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+body {
+    background: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.contain {
+    border-radius: 6px;
+    border: 1px solid #ebebeb;
+    width: 356px;
+    padding: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.04);
+}
+
+.snapchat-logo {
+    width: 60px;
+    margin: 0px auto 12px auto;
+    padding-bottom: 20px;
+    display: table;
+}
+
+img {
+    border: 0;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+.login-challenge-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+}
+
+.login-challenge-title {
+    font-family: "Avenir Next",-apple-system,BlinkMacSystemFont,Roboto,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    color: #16191c;
+}
+
+.form-group .control-label {
+    color: #656b73;
+    text-transform: none;
+    letter-spacing: 0;
+    text-align: inherit;
+    height: 16px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.control-label {
+    padding-bottom: 20px;
+}
+
+.form-group {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.form-control {
+    background: #f7f7f7;
+    border-radius: 4px;
+    border: 1px solid #f7f7f7;
+    box-shadow: 0 0 0 0 rgba(0,0,0,0);
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    height: 44px;
+    padding: 0 0 0 12px;
+    margin-bottom: 16px;
+    transition: box-shadow .15s ease-out .15s,border-color .15s ease-out,background .15s ease-out .15s,color .15s ease-out;
+    width: 100%;
+}
+
+.form-control:focus {
+    border-color: rgba(0,0,0,0);
+    border-bottom-color: #0fadff;
+    border-left-color: #f7f7f7;
+    border-right-color: #f7f7f7;
+    border-top-color: #f7f7f7;
+    box-shadow: 0 1px 0 0 #0fadff;
+    background: #f2f2f2;
+    color: #343a40;
+    outline: none;
+}
+
+.form-control:hover {
+    border-color: #0fadff;
+}
+
+.btn {
+    padding: 11px 24px 10px;
+    font-size: 14px;
+    line-height: 17px;
+    width: auto;
+    background-color: #0fadff;
+    color: #fff;
+    border: 1px solid #d6d6d6;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.by {
+    color: #656b73;
+    font-size: 16px;
+    position: absolute;
+    bottom: 0;
+    margin: 24px;
+}
