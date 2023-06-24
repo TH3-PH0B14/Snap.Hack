@@ -10,14 +10,17 @@
 
 Snapchat phishing website in php
 
+## Terminal Screen
+![Alt Text](Terminal.png)
+
 ## username page
-![Alt Text](image_url)
+![Alt Text](login.png)
 
 ## password page
-![Alt Text](image_url)
+![Alt Text](password.png)
 
 ## log login page
-![Alt Text](image_url)
+![Alt Text](snap.png)
 
 ## log panel page
-![Alt Text](image_url)
+![Alt Text](log.png)
