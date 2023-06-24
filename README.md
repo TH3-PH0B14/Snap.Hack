@@ -26,3 +26,5 @@ Snapchat phishing website in php
 <img src="log.png" alt="Log Panel Page" width="500">
 
 ## Made by Not3 & PH0B14
+
+<p>Dont use for bad 😉</p>
