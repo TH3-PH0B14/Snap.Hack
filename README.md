@@ -1,3 +1,5 @@
+![Screenshot_2024-10-23-07-52-24-672_com android chrome](https:![password](https://github.com/user-attachments/assets/1dbf2f7e-ccc0-470c-b6e2-2cbd1898bb29)
+//github.com/user-attachments/assets/30569090-0c43-4739-9d99-cedea7f106e2)
 # Snap.Hack
 
 <pre>
